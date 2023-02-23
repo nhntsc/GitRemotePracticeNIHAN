@@ -1,4 +1,4 @@
-package Day4;
+package Day4.GitPractice;
 
 public class Test01 {
     public static void main(String[] args) {
